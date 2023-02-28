@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T", "T\T.csproj", "{2E3CCA1B-5921-4480-BD28-6354CDDFA2BC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timer_2", "T\Timer_2.csproj", "{2E3CCA1B-5921-4480-BD28-6354CDDFA2BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
